@@ -1,7 +1,5 @@
 <?php
 
-namespace myeth;
-
 class ethereum_address {
 	
 	/*
