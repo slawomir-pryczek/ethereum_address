@@ -1,5 +1,5 @@
 # ethereum_address
-Create ethereum based addresses, without additional dependencies
+Create ethereum based addresses, without additional dependencies. Convert ethereum private key to wallet address.
 
 Ethereum addresses are based on secp256k1 elliptic curve. The curve has 3 elements:
   - X/Y elements which are the curve's public key.
